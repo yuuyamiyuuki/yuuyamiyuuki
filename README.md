@@ -1,5 +1,5 @@
 # TLDR :
-[![weird fullstack developer]](https://linkedin.com/in/https://www.linkedin.com/in/rodrigo-flores-2ab8ab204/) 
+[weird fullstack developer](https://linkedin.com/in/https://www.linkedin.com/in/rodrigo-flores-2ab8ab204/) 
 
 ![](https://github-readme-stats.vercel.app/api?username=yuuyamiyuuki&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yuuyamiyuuki&theme=dracula&hide_border=false)<br/>
